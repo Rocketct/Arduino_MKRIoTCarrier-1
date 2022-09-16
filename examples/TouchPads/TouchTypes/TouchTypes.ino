@@ -4,6 +4,7 @@
   from touch sensors buttons on MKR IoT Carrier and
   prints updates to the Serial Monitor.
 
+
   The circuit:
   - Arduino MKR baord;
   - MKR IoT carrier.

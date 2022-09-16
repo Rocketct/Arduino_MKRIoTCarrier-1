@@ -1,3 +1,7 @@
+/*
+This example turns on all the LED's turning on the IoT Carrier
+*/
+
 #include <Arduino_MKRIoTCarrier.h>
 MKRIoTCarrier carrier;
 

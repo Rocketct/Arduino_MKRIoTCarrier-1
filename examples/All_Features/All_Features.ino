@@ -1,6 +1,6 @@
 /*  
 This sketch will test the carrier board
-Unless the touch pads
+Except the touch pads
 */
 
 #include <Arduino_MKRIoTCarrier.h>

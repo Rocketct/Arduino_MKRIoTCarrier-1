@@ -1,3 +1,7 @@
+/*
+This example turns both relays on & off
+*/
+
 #include <Arduino_MKRIoTCarrier.h>
 
 MKRIoTCarrier carrier;
