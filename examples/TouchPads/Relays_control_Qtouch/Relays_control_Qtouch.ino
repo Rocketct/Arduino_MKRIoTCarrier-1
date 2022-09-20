@@ -63,7 +63,7 @@ void loop() {
     carrier.leds.show();
   }
 
-  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
     carrier.leds.setPixelColor(2, c_orange);
     carrier.leds.show();
 
@@ -74,7 +74,7 @@ void loop() {
     } else {
       carrier.Relay1.close();
     }
-    //Relay 2
+    //Relay 1
     if (newRelay2) {
       carrier.Relay2.open();
     } else {
